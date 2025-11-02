@@ -1,0 +1,14 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: true
+
+  color: "#1d2261"
+  image: assets/images/RPIconV2.png
+  android_gravity: center
+
+  android_12:
+    color: "#1d2261"
+    image: assets/images/RPIconV2.png
+    android_gravity: center
+
