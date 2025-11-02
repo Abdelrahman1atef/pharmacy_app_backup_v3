@@ -142,11 +142,13 @@ A comprehensive Flutter-based mobile application for pharmacy management, provid
 <table>
 <tr>
 <td width="50%" style="padding: 15px;">
+  
 **🔐 Login Screen**
 <br/>
 <img src="https://github.com/user-attachments/assets/ff5b30ac-8d20-4a21-a108-40d168752845" alt="Login Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
 </td>
 <td width="50%" style="padding: 15px;">
+  
 **📝 Sign Up Screen**
 <br/>
 <img src="https://github.com/user-attachments/assets/bb9eafcb-c53f-43ae-ab8c-c6ca360b2bc9" alt="Sign Up Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
