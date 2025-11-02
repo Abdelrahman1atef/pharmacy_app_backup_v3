@@ -164,21 +164,21 @@ A comprehensive Flutter-based mobile application for pharmacy management, provid
 
 <table>
 <tr>
-<td width="33.33%">
+<td width="33.0%">
   
 **🏠 Home Screen**
   
 <img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" alt="Home Screen" width="100%"/>
 
 </td>
-<td width="33.33%">
+<td width="33.0%">
   
 **📋 Product List**
   
 <img src="https://github.com/user-attachments/assets/cfa51b75-c1bc-4b3c-bef4-ba956505e73b" alt="Product List Screen" width="100%"/>
 
 </td>
-<td width="33.33%">
+<td width="33.0%">
   
 **📦 Product Info**
   
