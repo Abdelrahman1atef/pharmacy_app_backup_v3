@@ -12,11 +12,11 @@ Choose your preferred style for displaying screenshots in the README!
 <tr>
 <td width="50%">
 **🔐 Login Screen**
-<img src="..." width="100%"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="100%"/>
 </td>
 <td width="50%">
 **📝 Sign Up Screen**
-<img src="..." width="100%"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="100%"/>
 </td>
 </tr>
 </table>
@@ -36,13 +36,13 @@ Choose your preferred style for displaying screenshots in the README!
 <td width="50%" style="padding: 10px;">
 <div style="border: 2px solid #e0e0e0; border-radius: 12px; padding: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 **🔐 Login Screen**
-<img src="..." width="100%" style="border-radius: 8px;"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="100%" style="border-radius: 8px;"/>
 </div>
 </td>
 <td width="50%" style="padding: 10px;">
 <div style="border: 2px solid #e0e0e0; border-radius: 12px; padding: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 **📝 Sign Up Screen**
-<img src="..." width="100%" style="border-radius: 8px;"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="100%" style="border-radius: 8px;"/>
 </div>
 </td>
 </tr>
@@ -62,11 +62,11 @@ Choose your preferred style for displaying screenshots in the README!
 <tr>
 <td width="50%">
 <h4><span style="background: #1d2261; color: white; padding: 4px 12px; border-radius: 6px; display: inline-block;">🔐 Login Screen</span></h4>
-<img src="..." width="100%" style="margin-top: 8px; border-radius: 8px;"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="100%" style="margin-top: 8px; border-radius: 8px;"/>
 </td>
 <td width="50%">
 <h4><span style="background: #1d2261; color: white; padding: 4px 12px; border-radius: 6px; display: inline-block;">📝 Sign Up Screen</span></h4>
-<img src="..." width="100%" style="margin-top: 8px; border-radius: 8px;"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="100%" style="margin-top: 8px; border-radius: 8px;"/>
 </td>
 </tr>
 </table>
@@ -86,12 +86,12 @@ Choose your preferred style for displaying screenshots in the README!
 <td width="50%" style="padding: 15px;">
 **🔐 Login Screen**
 <br/>
-<img src="..." width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
 </td>
 <td width="50%" style="padding: 15px;">
 **📝 Sign Up Screen**
 <br/>
-<img src="..." width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
 </td>
 </tr>
 </table>
@@ -111,13 +111,13 @@ Choose your preferred style for displaying screenshots in the README!
 <td width="50%">
 <div style="border: 3px solid #1d2261; border-radius: 12px; padding: 4px; background: #f5f5f5;">
 **🔐 Login Screen**
-<img src="..." width="100%" style="border-radius: 8px; display: block;"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="100%" style="border-radius: 8px; display: block;"/>
 </div>
 </td>
 <td width="50%">
 <div style="border: 3px solid #1d2261; border-radius: 12px; padding: 4px; background: #f5f5f5;">
 **📝 Sign Up Screen**
-<img src="..." width="100%" style="border-radius: 8px; display: block;"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="100%" style="border-radius: 8px; display: block;"/>
 </div>
 </td>
 </tr>
@@ -136,10 +136,10 @@ Choose your preferred style for displaying screenshots in the README!
 ### Authentication Screens
 
 **🔐 Login Screen**
-<img src="..." width="400" style="display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="400" style="display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
 
 **📝 Sign Up Screen**
-<img src="..." width="400" style="display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="400" style="display: block; margin: 10px auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
 
 ---
 ```
@@ -159,7 +159,7 @@ Choose your preferred style for displaying screenshots in the README!
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 12px; border-radius: 12px;">
 <div style="background: white; padding: 8px; border-radius: 8px;">
 **🔐 Login Screen**
-<img src="..." width="100%" style="border-radius: 6px;"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="100%" style="border-radius: 6px;"/>
 </div>
 </div>
 </td>
@@ -167,7 +167,7 @@ Choose your preferred style for displaying screenshots in the README!
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 12px; border-radius: 12px;">
 <div style="background: white; padding: 8px; border-radius: 8px;">
 **📝 Sign Up Screen**
-<img src="..." width="100%" style="border-radius: 6px;"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="100%" style="border-radius: 6px;"/>
 </div>
 </div>
 </td>
@@ -186,7 +186,7 @@ Choose your preferred style for displaying screenshots in the README!
 ```markdown
 **🔐 Login Screen** | **📝 Sign Up Screen**
 :---: | :---:
-<img src="..." width="250"/> | <img src="..." width="250"/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="250"/> | <img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" width="250"/>
 ```
 
 **Pros:** Very compact, GitHub markdown tables  
