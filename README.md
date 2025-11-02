@@ -141,19 +141,15 @@ A comprehensive Flutter-based mobile application for pharmacy management, provid
 
 <table>
 <tr>
-<td width="50%">
-  
+<td width="50%" style="padding: 15px;">
 **🔐 Login Screen**
-  
-<img src="https://github.com/user-attachments/assets/ff5b30ac-8d20-4a21-a108-40d168752845" alt="Login Screen" width="100%"/>
-
+<br/>
+<img src="https://github.com/user-attachments/assets/ff5b30ac-8d20-4a21-a108-40d168752845" alt="Login Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
 </td>
-<td width="50%">
-  
+<td width="50%" style="padding: 15px;">
 **📝 Sign Up Screen**
-  
-<img src="https://github.com/user-attachments/assets/bb9eafcb-c53f-43ae-ab8c-c6ca360b2bc9" alt="Sign Up Screen" width="100%"/>
-
+<br/>
+<img src="https://github.com/user-attachments/assets/bb9eafcb-c53f-43ae-ab8c-c6ca360b2bc9" alt="Sign Up Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
 </td>
 </tr>
 </table>
@@ -164,42 +160,32 @@ A comprehensive Flutter-based mobile application for pharmacy management, provid
 
 <table>
 <tr>
-<td width="33.0%">
-  
+<td width="33.33%" style="padding: 15px;">
 **🏠 Home Screen**
-  
-<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" alt="Home Screen" width="100%"/>
-
+<br/>
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" alt="Home Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
 </td>
-<td width="33.0%">
-  
+<td width="33.33%" style="padding: 15px;">
 **📋 Product List**
-  
-<img src="https://github.com/user-attachments/assets/cfa51b75-c1bc-4b3c-bef4-ba956505e73b" alt="Product List Screen" width="100%"/>
-
+<br/>
+<img src="https://github.com/user-attachments/assets/cfa51b75-c1bc-4b3c-bef4-ba956505e73b" alt="Product List Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
 </td>
-<td width="33.0%">
-  
+<td width="33.33%" style="padding: 15px;">
 **📦 Product Info**
-  
-<img src="https://github.com/user-attachments/assets/22ddaf1d-685c-4f37-b607-79ef9f6e4d2b" alt="Product Info Screen" width="100%"/>
-
+<br/>
+<img src="https://github.com/user-attachments/assets/22ddaf1d-685c-4f37-b607-79ef9f6e4d2b" alt="Product Info Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
 </td>
 </tr>
 <tr>
-<td width="50%">
-  
+<td width="50%" style="padding: 15px;">
 **🛒 Shopping Cart**
-  
-<img src="https://github.com/user-attachments/assets/def4117a-1501-4375-bded-1a9765e43250" alt="Cart Screen" width="100%"/>
-
+<br/>
+<img src="https://github.com/user-attachments/assets/def4117a-1501-4375-bded-1a9765e43250" alt="Cart Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
 </td>
-<td width="50%">
-  
+<td width="50%" style="padding: 15px;">
 **💳 Checkout**
-  
-<img src="https://github.com/user-attachments/assets/0f67037d-cc8f-4b8d-844b-0ab15d77ca25" alt="Checkout Screen" width="100%"/>
-
+<br/>
+<img src="https://github.com/user-attachments/assets/0f67037d-cc8f-4b8d-844b-0ab15d77ca25" alt="Checkout Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
 </td>
 </tr>
 </table>
