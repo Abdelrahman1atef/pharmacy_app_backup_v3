@@ -139,93 +139,140 @@ A comprehensive Flutter-based mobile application for pharmacy management, provid
 
 ### Authentication Screens
 
-#### Login Screen
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ff5b30ac-8d20-4a21-a108-40d168752845" alt="Login Screen" width="300"/>
-</p>
+<table>
+<tr>
+<td width="50%">
+  
+**🔐 Login Screen**
+  
+<img src="https://github.com/user-attachments/assets/ff5b30ac-8d20-4a21-a108-40d168752845" alt="Login Screen" width="100%"/>
 
-#### Sign Up Screen
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bb9eafcb-c53f-43ae-ab8c-c6ca360b2bc9" alt="Sign Up Screen" width="300"/>
-</p>
+</td>
+<td width="50%">
+  
+**📝 Sign Up Screen**
+  
+<img src="https://github.com/user-attachments/assets/bb9eafcb-c53f-43ae-ab8c-c6ca360b2bc9" alt="Sign Up Screen" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### Main Screens
 
-#### Home Screen
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" alt="Home Screen" width="300"/>
-</p>
+<table>
+<tr>
+<td width="33.33%">
+  
+**🏠 Home Screen**
+  
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" alt="Home Screen" width="100%"/>
 
-#### Product List Screen
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cfa51b75-c1bc-4b3c-bef4-ba956505e73b" alt="Product List Screen" width="300"/>
-</p>
+</td>
+<td width="33.33%">
+  
+**📋 Product List**
+  
+<img src="https://github.com/user-attachments/assets/cfa51b75-c1bc-4b3c-bef4-ba956505e73b" alt="Product List Screen" width="100%"/>
 
-#### Product Info / Details Screen 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/22ddaf1d-685c-4f37-b607-79ef9f6e4d2b" alt="Product Info Screen" width="300"/>
-</p>
+</td>
+<td width="33.33%">
+  
+**📦 Product Info**
+  
+<img src="https://github.com/user-attachments/assets/22ddaf1d-685c-4f37-b607-79ef9f6e4d2b" alt="Product Info Screen" width="100%"/>
 
-#### Shopping Cart Screen 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/def4117a-1501-4375-bded-1a9765e43250" alt="Cart Screen" width="300"/>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  
+**🛒 Shopping Cart**
+  
+<img src="https://github.com/user-attachments/assets/def4117a-1501-4375-bded-1a9765e43250" alt="Cart Screen" width="100%"/>
 
-#### Checkout Screen
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0f67037d-cc8f-4b8d-844b-0ab15d77ca25" alt="Checkout Screen" width="300"/>
-</p>
+</td>
+<td width="50%">
+  
+**💳 Checkout**
+  
+<img src="https://github.com/user-attachments/assets/0f67037d-cc8f-4b8d-844b-0ab15d77ca25" alt="Checkout Screen" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### User Screens
 
-#### User Info / Profile Screen
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fccb6065-cdca-4d7b-85bc-507a39dd6b0f" alt="User Info Screen" width="300"/>
-</p>
+<table>
+<tr>
+<td width="33.33%">
+  
+**👤 User Profile**
+  
+<img src="https://github.com/user-attachments/assets/fccb6065-cdca-4d7b-85bc-507a39dd6b0f" alt="User Info Screen" width="100%"/>
 
-#### Order History Screen
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/67edd6fc-290f-4579-9921-90f7e0b10cea" alt="Order History Screen" width="300"/>
-</p>
+</td>
+<td width="33.33%">
+  
+**📜 Order History**
+  
+<img src="https://github.com/user-attachments/assets/67edd6fc-290f-4579-9921-90f7e0b10cea" alt="Order History Screen" width="100%"/>
 
-#### More / Settings Screen
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c42cde82-3af8-4b6b-b6ee-83258b0993df" alt="More Screen" width="300"/>
-</p>
+</td>
+<td width="33.33%">
+  
+**⚙️ Settings**
+  
+<img src="https://github.com/user-attachments/assets/c42cde82-3af8-4b6b-b6ee-83258b0993df" alt="More Screen" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### Admin Screens
 
-#### Admin Main Screen
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e0eb4d9c-8f49-482b-b313-c335312d64b9" alt="Admin Main Screen" width="300"/>
-</p>
+<table>
+<tr>
+<td width="50%">
+  
+**🎛️ Admin Main Screen**
+  
+<img src="https://github.com/user-attachments/assets/e0eb4d9c-8f49-482b-b313-c335312d64b9" alt="Admin Main Screen" width="100%"/>
 
-#### Admin Orders Screen
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a3168284-57f5-410c-b6f0-ce000bac56d0" alt="Admin Orders Screen" width="300"/>
-</p>
+</td>
+<td width="50%">
+  
+**📦 Admin Orders**
+  
+<img src="https://github.com/user-attachments/assets/a3168284-57f5-410c-b6f0-ce000bac56d0" alt="Admin Orders Screen" width="100%"/>
 
-#### Admin Users Screen
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4815bdf1-21c0-4480-b3dd-be165c59a352" alt="Admin Users Screen" width="300"/>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  
+**👥 Admin Users**
+  
+<img src="https://github.com/user-attachments/assets/4815bdf1-21c0-4480-b3dd-be165c59a352" alt="Admin Users Screen" width="100%"/>
 
-#### Admin User Info Screen
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/845f604b-9707-4517-b282-4347067fb3a3" alt="Admin User Info Screen" width="300"/>
-</p>
+</td>
+<td width="50%">
+  
+**📊 User Info**
+  
+<img src="https://github.com/user-attachments/assets/845f604b-9707-4517-b282-4347067fb3a3" alt="Admin User Info Screen" width="100%"/>
 
----
+</td>
+</tr>
+</table>
 
-> **Note:** To add screenshots, place your images in the `screenshots/` directory and name them accordingly. Update the paths above to match your screenshot filenames.
-
----
 
 ## 🚀 Getting Started
 
@@ -242,8 +289,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Abdelrahman1atef/pharmacy_app_backup_v2.git
-   cd pharmacy_app_backup_v2
+   git clone https://github.com/Abdelrahman1atef/pharmacy_app_backup_v3.git
+   cd pharmacy_app_backup_v3
    ```
 
 2. **Install dependencies**
