@@ -160,32 +160,42 @@ A comprehensive Flutter-based mobile application for pharmacy management, provid
 
 <table>
 <tr>
-<td width="33.33%" style="padding: 15px;">
+<td width="33.0%">
+  
 **🏠 Home Screen**
-<br/>
-<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" alt="Home Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
+  
+<img src="https://github.com/user-attachments/assets/b921255a-f254-4a40-8165-be6ef623a0bc" alt="Home Screen" width="100%"/>
+
 </td>
-<td width="33.33%" style="padding: 15px;">
+<td width="33.0%">
+  
 **📋 Product List**
-<br/>
-<img src="https://github.com/user-attachments/assets/cfa51b75-c1bc-4b3c-bef4-ba956505e73b" alt="Product List Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
+  
+<img src="https://github.com/user-attachments/assets/cfa51b75-c1bc-4b3c-bef4-ba956505e73b" alt="Product List Screen" width="100%"/>
+
 </td>
-<td width="33.33%" style="padding: 15px;">
+<td width="33.0%">
+  
 **📦 Product Info**
-<br/>
-<img src="https://github.com/user-attachments/assets/22ddaf1d-685c-4f37-b607-79ef9f6e4d2b" alt="Product Info Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
+  
+<img src="https://github.com/user-attachments/assets/22ddaf1d-685c-4f37-b607-79ef9f6e4d2b" alt="Product Info Screen" width="100%"/>
+
 </td>
 </tr>
 <tr>
-<td width="50%" style="padding: 15px;">
+<td width="50%">
+  
 **🛒 Shopping Cart**
-<br/>
-<img src="https://github.com/user-attachments/assets/def4117a-1501-4375-bded-1a9765e43250" alt="Cart Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
+  
+<img src="https://github.com/user-attachments/assets/def4117a-1501-4375-bded-1a9765e43250" alt="Cart Screen" width="100%"/>
+
 </td>
-<td width="50%" style="padding: 15px;">
+<td width="50%">
+  
 **💳 Checkout**
-<br/>
-<img src="https://github.com/user-attachments/assets/0f67037d-cc8f-4b8d-844b-0ab15d77ca25" alt="Checkout Screen" width="100%" style="border: 1px solid #ddd; border-radius: 4px; margin-top: 10px;"/>
+  
+<img src="https://github.com/user-attachments/assets/0f67037d-cc8f-4b8d-844b-0ab15d77ca25" alt="Checkout Screen" width="100%"/>
+
 </td>
 </tr>
 </table>
